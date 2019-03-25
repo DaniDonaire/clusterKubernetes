@@ -1,5 +1,9 @@
 # Kubernetes Tutorial
 
+Follow this link:
+
+https://www.returngis.net/2019/03/hoy-empiezo-con-kubernetes/?_lrsc=b023f354-8ca0-4d76-ae26-3541ac68a816
+
 Create a 3 Virtual machines - Ubuntu Server:
 - Master
 - Node 1
